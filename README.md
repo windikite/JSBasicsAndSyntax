@@ -1,0 +1,1 @@
+My 36th assignment! This is the first look at JS for the course, and tests for various fundamentals such as assignment and different operators. 
